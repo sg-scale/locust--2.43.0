@@ -85,7 +85,7 @@ lint = [
     "mypy>=1.13.0,<1.15.0",
     "types-requests==2.32.4.20250809",
 ]
-release = ["twine>=5.1.1,<6.0.0"]
+release = ["twine>=5.1.1,<8.0.0"]
 docs = [
     "sphinx==7.4.7",
     "sphinx-rtd-theme==3.0.2",
